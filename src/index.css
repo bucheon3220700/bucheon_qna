@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bwyf-purple: #6D3A9C;
+  --color-bwyf-green: #1E6B39;
+  --color-bwyf-yellow: #F4C300;
+}
+
+body {
+  background-color: #f9fafb; /* bg-gray-50 */
+  color: #111827; /* text-gray-900 */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
